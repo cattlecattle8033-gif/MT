@@ -8,7 +8,7 @@
 // @match        *://gsa.ofalive99.net/*
 // @run-at       document-start
 // @noframes
-// @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/MT_Baccarat_Source.js
+// @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/main/MT_Baccarat_Source.js
 // @grant        none
 // ==/UserScript==
 
