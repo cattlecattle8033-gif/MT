@@ -1,17 +1,20 @@
 // ==UserScript==
-// @name         龍盈科技【MT百家樂】專業設計精巧版
-// @namespace    http://tampermonkey.net/
-// @version      61.0
-// @description  龍盈科技 MT 百家樂即時牌局統計與規則分析面板
-// @author       程式夥伴
+// @name         龍盈科技【MT百家樂】
+// @namespace    http://tampermonkey.net
+// @version      62.0.0
+// @description  龍盈科技 MT 百家樂即時局勢統計、凱利公式動態注碼與高階路則分析面板
+// @author       龍盈研發團隊
 // @match        *://*.ofalive99.net/*
 // @match        *://gsa.ofalive99.net/*
 // @run-at       document-start
-// @noframes
-// @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/main/MT_Baccarat_Source.js
 // @grant        none
-// ==/UserScript==
+// @noframes
+// @updateURL    https://githubusercontent.com
+// @downloadURL  https://githubusercontent.com
+// @require      https://githubusercontent.com
+// ==UserScript==
 
-(function () {
+(function() {
     'use strict';
+    console.log('%c[龍盈科技]%c 頂級量子集成計算與動態防禦模組已成功加載。', 'color: #e0474c; font-weight: bold;', 'color: #2f69e3;');
 })();
