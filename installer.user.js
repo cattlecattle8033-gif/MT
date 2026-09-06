@@ -8,8 +8,7 @@
 // @match        *://gsa.ofalive99.net/*
 // @run-at       document-start
 // @grant        none
-// @noframes
-// @updateURL    https://githubusercontent.com
+// @noframes     https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/MT_Baccarat_Source.js// @updateURL    https://githubusercontent.com
 // @downloadURL  https://githubusercontent.com
 // @require      https://githubusercontent.com
 // ==UserScript==
