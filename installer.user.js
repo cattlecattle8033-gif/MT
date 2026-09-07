@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         龍盈科技【MT百家樂】
+// @name         龍盈科技【MT百家樂】專業設計精裝版
 // @namespace    http://tampermonkey.net
 // @version      62.0.0
 // @description  龍盈科技 MT 百家樂即時局勢統計、凱利公式動態注碼與高階路則分析面板
@@ -11,7 +11,7 @@
 // @noframes
 // @updateURL    https://githubusercontent.com
 // @downloadURL  https://githubusercontent.com
-// @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/MT_Baccarat_Source.js
+// @require      https://githubusercontent.com
 // ==UserScript==
 
 (function() {
