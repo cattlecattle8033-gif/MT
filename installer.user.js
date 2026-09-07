@@ -11,7 +11,7 @@
 // @noframes
 // @updateURL    https://githubusercontent.com
 // @downloadURL  https://githubusercontent.com
-// @require      https://githubusercontent.com
+// @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/MT_Baccarat_Source.js
 // ==UserScript==
 
 (function() {
