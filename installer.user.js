@@ -9,8 +9,8 @@
 // @run-at       document-start
 // @grant        none
 // @noframes
-// @updateURL    https://githubusercontent.com
-// @downloadURL  https://githubusercontent.com
+// @updateURL    https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/installer.user.js
+// @downloadURL  https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/installer.user.js
 // @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/refs/heads/main/MT_Baccarat_Source.js
 // ==UserScript==
 
