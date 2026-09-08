@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         龍盈科技【MT百家樂】專業設計精裝版
-// @namespace    http://tampermonkey.net
-// @version      62.0.0
+// @name         龍盈科技【MT百家樂】專計-精裝版
+// @namespace    http://tampermonkey.net/
+// @version      63.1.1
 // @description  龍盈科技 MT 百家樂即時局勢統計、凱利公式動態注碼與高階路則分析面板
 // @author       龍盈研發團隊
 // @match        *://*.ofalive99.net/*
@@ -12,22 +12,8 @@
 // @updateURL    https://raw.githubusercontent.com/cattlecattle8033-gif/MT/main/installer.user.js
 // @downloadURL  https://raw.githubusercontent.com/cattlecattle8033-gif/MT/main/installer.user.js
 // @require      https://raw.githubusercontent.com/cattlecattle8033-gif/MT/main/MT_Baccarat_Source.js
-// ==UserScript==
+// ==/UserScript==
 
 (function() {
     'use strict';
-    
-    // 完美主義防重複鎖：如果目前不是最外層的頂級網頁，或是已經建立過面板，則立刻熔斷、拒絕重複執行
-    if (window.self !== window.top || window.__mtBaccaratLoaded__) {
-        console.log('[龍盈科技] 偵測到 iframe 子框架或重複加載，已自動實施硬體隔離封鎖。');
-        return;
-    }
-    window.__mtBaccaratLoaded__ = true;
-
-    // 企業級跨平台主控台簽名
-    const isMobile = /Android|iPhone|iPad/i.test(navigator.userAgent);
-    const deviceTag = isMobile ? ' 行動端相容模式 ' : ' 桌面端優化模式 ';
-    const brandStyle = 'background: #121214; color: #e0474c; padding: 4px 8px; border-radius: 4px 0 0 4px; font-weight: bold; border: 1px solid rgba(255,255,255,0.08);';
-    const coreStyle = 'background: rgba(47,105,227,0.1); color: #2f69e3; padding: 4px 8px; border-radius: 0 4px 4px 0; font-weight: bold; border: 1px solid rgba(47,105,227,0.2); border-left: none;';
-    console.log(`%c[龍盈科技]%c頂級量子計算與動態防禦模組已成功加載 (${deviceTag})。`, brandStyle, coreStyle);
 })();
