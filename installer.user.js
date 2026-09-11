@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         龍盈科技【MT百家樂】專計-精裝版
-// @namespace    http://tampermonkey.net/
-// @version      63.1.1
-// @description  龍盈科技 MT 百家樂即時局勢統計、凱利公式動態注碼與高階路則分析面板
-// @author       龍盈研發團隊
+// @name         龍盈科技【MT百家樂】量子預測引擎
+// @namespace    https://mtbaccarat.local/
+// @version      2.0.0
+// @description  百家樂路單分析、量子預測、玻璃擬態 UI 與自動下注框架iframe穿透
+// @author       龍盈團隊
 // @match        *://*.ofalive99.net/*
 // @match        *://gsa.ofalive99.net/*
 // @run-at       document-start
