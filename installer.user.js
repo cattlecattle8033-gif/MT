@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         龍盈科技【MT百家樂】量子預測引擎
 // @namespace    https://mtbaccarat.local/
-// @version      2.0.0
-// @description  百家樂路單分析、量子預測、玻璃擬態 UI 與自動下注框架iframe穿透
+// @version      2.1.0
+// @description  路單分析、量子預測、自動下注框架iframe穿透
 // @author       龍盈團隊
 // @match        *://*.ofalive99.net/*
 // @match        *://gsa.ofalive99.net/*
