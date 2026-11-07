@@ -6,6 +6,8 @@
 // @author       龍盈團隊
 // @match        *://*.ofalive99.net/*
 // @match        *://gsa.ofalive99.net/*
+// @match        *://mtbet168.com/*
+// @match        *://*.mtbet168.com/*
 // @run-at       document-start
 // @grant        none
 // @noframes
